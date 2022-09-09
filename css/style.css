@@ -1,0 +1,14 @@
+.center {
+  text-align: center;
+}
+.navigation-links {
+  display: flex;
+  justify-content: center;
+}
+.navigation-links a {
+  padding: 20px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
